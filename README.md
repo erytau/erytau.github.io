@@ -1,7 +1,4 @@
 # erytau.github.io
-test
 
-
-[test](bunny-forest.md)
-
-[test](/bunny-forest.md)
+[Bunny Forest](games/bunny-forest.md)
+[Bunny Forest Privacy](games/bunny-forest-privacy.md)
