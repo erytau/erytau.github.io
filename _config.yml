@@ -1,4 +1,4 @@
 title: erytau.com
-remote_theme: themefisher/kross-jekyll
+remote_theme: yousinix/portfolYOU
 plugins:
 - jekyll-remote-theme
