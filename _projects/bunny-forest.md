@@ -22,5 +22,4 @@ If you ever get stuck because you can't find enough food (it might be hiding beh
 ![](../assets/pub/bunny-forest/4.png)
 ![](../assets/pub/bunny-forest/5.png)
 
-
-{% youtube rg3wnTZBN4o %}
+{% include youtube.html id="rg3wnTZBN4o" %}
