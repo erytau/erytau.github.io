@@ -12,6 +12,7 @@ open_new_tab        : false
 ### Plugins ###
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
   - jemoji
 
 
