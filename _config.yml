@@ -1,1 +1,4 @@
 title: erytau.com
+remote_theme: LeNPaul/portfolio-jekyll-theme
+plugins:
+- jekyll-remote-theme
