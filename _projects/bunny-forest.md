@@ -1,13 +1,15 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
+name: Bunny Forest
+tools: [Windows, Linux, Android]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: Calm game about bunnies
 ---
 
-# The Movies Project
+# Bunny Forest
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+Calm and cute pixel game about bunnies. Hop around, search for carrots, plant flowers, trade and explore the forest.
+
+There are 6 areas to explore and you'll have to work a bit to get into the last 2. There are some  secrets too!🐰
 
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
