@@ -3,7 +3,7 @@ title: Bunny Forest Privacy Policy
 permalink: /projects/bunny-forest-privacy
 ---
 
-## Bunny Forest Privacy Policy 2
+## Bunny Forest Privacy Policy 3
 
 Erytau built the Bunny Forest app as a Free app. This SERVICE is provided by Erytau at no cost and is intended for use as is.
 
