@@ -15,17 +15,19 @@ There are 6 areas to explore and you'll have to work a bit to get into the last 
 
 If you ever get stuck because you can't find enough food (it might be hiding behind something), don't worry - any carrots, apples, and pumpkins you eat will regrow in an hour. You don't need to keep the game open either - time passes even while it's closed.
 
+## Links
+---
+- [Itch.op](https://erytau.itch.io/bunny-forest) (Windows, Linux, Mac, Android APK)
+- [Google Play](https://play.google.com/store/apps/details?id=com.erytau.bunnyforest)
+
 ## Gallery
 ---
-
 ![](../assets/pub/bunny-forest/hop.gif)
 ![](../assets/pub/bunny-forest/1.png)
 ![](../assets/pub/bunny-forest/2.png)
 ![](../assets/pub/bunny-forest/3.png)
 ![](../assets/pub/bunny-forest/4.png)
 ![](../assets/pub/bunny-forest/5.png)
-
-{% include youtube.html id="rg3wnTZBN4o" %}
-
 {% include video.html src="../assets/pub/bunny-forest/longer-video.mp4" %}
 {% include video.html src="../assets/pub/bunny-forest/medium_video_promo.mp4" %}
+{% include elements/video.html id="rg3wnTZBN4o" %}
