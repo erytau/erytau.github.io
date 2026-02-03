@@ -5,7 +5,7 @@ image: ./assets/pub/bunny-forest/bunny-forest-logo.png
 description: Calm game about bunnies
 ---
 
-![](../assets/pub/bunny-forest/bunny-forest-logo.png){:class="text-center"}
+![](../assets/pub/bunny-forest/bunny-forest-logo.png){:.centered}
 
 # Bunny Forest
 
