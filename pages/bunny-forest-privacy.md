@@ -3,7 +3,8 @@ layout: page
 title: Bunny Forest Privacy Policy
 permalink: /projects/bunny-forest-privacy
 redirect_from:
-  - /games/bunny-forest-privacy.html
+    - /games/bunny-forest-privacy.html
+    - /games/test
 ---
 
 ## Bunny Forest Privacy Policy
