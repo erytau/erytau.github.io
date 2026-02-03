@@ -1,7 +1,7 @@
 ---
 name: Bunny Forest
 tools: [Windows, Linux, Android]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: ./assets/pub/bunny-forest-logo.png
 description: Calm game about bunnies
 ---
 
