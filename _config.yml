@@ -10,6 +10,7 @@ remote_theme        : yousinix/portfolYOU@v2.3.0
 
 ### Plugins ###
 plugins:
+  - jekyll-remote-theme
   - jemoji
 
 
