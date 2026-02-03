@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Bunny Forest Privacy
+title: Bunny Forest Privacy Policy
+permalink: /projects/bunny-forest-privacy
 ---
 
 ## Bunny Forest Privacy Policy
