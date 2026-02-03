@@ -6,3 +6,7 @@
 #attribution  {
   display: none;
 }
+
+.post img {
+  @extend .rounded;
+}
