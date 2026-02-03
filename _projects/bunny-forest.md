@@ -15,6 +15,9 @@ There are 6 areas to explore and you'll have to work a bit to get into the last 
 
 If you ever get stuck because you can't find enough food (it might be hiding behind something), don't worry - any carrots, apples, and pumpkins you eat will regrow in an hour. You don't need to keep the game open either - time passes even while it's closed.
 
+## Gallery
+---
+
 ![](../assets/pub/bunny-forest/hop.gif)
 ![](../assets/pub/bunny-forest/1.png)
 ![](../assets/pub/bunny-forest/2.png)
