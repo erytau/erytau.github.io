@@ -1,3 +1,7 @@
+---
+name: Bunny Forest Privacy
+---
+
 ## Bunny Forest Privacy Policy
 
 Erytau built the Bunny Forest app as a Free app. This SERVICE is provided by Erytau at no cost and is intended for use as is.
