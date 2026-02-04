@@ -6,12 +6,11 @@
             <div id="container" class="my-2">
                 <div id="dummy"></div>
                 <div id="element">
-                    <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn"
-                        data-wow-delay=".1s">
+                    <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
                 </div>
             </div>
 
-            <p class="text-muted wow" data-wow-delay=".15s">{{ site.description }}</p>
+            <p class="text-muted">{{ site.description }}</p>
 
         </div>
     </div>
@@ -19,8 +18,7 @@
     <div class="row justify-content-center align-items-center m-2">
         <div class="mt-auto text-center">
 
-            <div class="text-muted wow" data-wow-delay=".15s"
-                style="visibility: visible; animation-delay: 0.15s; animation-name: slideInUp;">
+            <div class="text-muted ">
                 {% include social.html %}
             </div>
             
