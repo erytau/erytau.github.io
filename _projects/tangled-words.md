@@ -3,7 +3,7 @@ name: Tangled Words
 tools: [Web, Android]
 image: ./assets/pub/tangled-words/icon3.png
 description: Letters in the word have tangled up, choose the right word from the four options
-weight: 1
+weight: 4
 ---
 
 ![](../assets/pub/tangled-words/icon3.png)

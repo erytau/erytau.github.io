@@ -3,6 +3,7 @@ name: Bunny Forest
 tools: [Windows, Linux, Android, Mac]
 image: ./assets/pub/bunny-forest/bunny-forest-logo.png
 description: Calm game about bunnies
+weight: 1
 ---
 
 ![](../assets/pub/bunny-forest/bunny-forest-logo.png)

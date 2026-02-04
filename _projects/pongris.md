@@ -3,6 +3,7 @@ name: Pongris
 tools: [Web]
 image: ./assets/pub/pongris/cover.png
 description: Pong plus Tetris (prototype)
+weight: 6
 ---
 
 ![](../assets/pub/pongris/cover.png)

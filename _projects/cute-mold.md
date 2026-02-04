@@ -3,6 +3,7 @@ name: Cute Mold
 tools: [Windows, Linux, Source]
 image: ./assets/pub/cute-mold/logo7.png
 description: Mold growth and evolution simulation
+weight: 3
 ---
 
 ![](../assets/pub/cute-mold/logo7.png)
