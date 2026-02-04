@@ -27,7 +27,6 @@ Controls:
 
 - [Itch.io](https://erytau.itch.io/tangled-slug) (Windows, Linux, Mac, Android APK, Web)
 - [Google Play](https://play.google.com/store/apps/details?id=com.erytau.tangledslug)
-- [Ubuntu Snap](https://snapcraft.io/tangled-slug)
 
 ## Privacy Policy
 
