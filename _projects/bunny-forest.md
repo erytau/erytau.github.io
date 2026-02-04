@@ -20,7 +20,6 @@ If you ever get stuck because you can't find enough food (it might be hiding beh
 
 - [Itch.io](https://erytau.itch.io/bunny-forest) (Windows, Linux, Mac, Android APK)
 - [Google Play](https://play.google.com/store/apps/details?id=com.erytau.bunnyforest)
-- [Ubuntu Snap](https://snapcraft.io/bunny-forest)
 
 ## Privacy Policy
 
