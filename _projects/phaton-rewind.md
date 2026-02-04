@@ -11,7 +11,7 @@ weight: 1
 # Phantom Rewind
 
 Puzzle-adventure about a ghost who can rewind time. 
-Still in the works.
+*Still in the works.*
 
 ## Gallery
 
