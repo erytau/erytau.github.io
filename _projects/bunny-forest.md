@@ -17,13 +17,13 @@ If you ever get stuck because you can't find enough food (it might be hiding beh
 
 ## Links
 ---
-- [Itch.io <i class="fa-brands fa-itch-io"></i>](https://erytau.itch.io/bunny-forest) (Windows, Linux, Mac, Android APK)
-- [Google Play <i class="fa-brands fa-google-play"></i>](https://play.google.com/store/apps/details?id=com.erytau.bunnyforest)
-- [Ubuntu Snap <i class="fa-brands fa-ubuntu"></i>](https://snapcraft.io/bunny-forest)
+- <i class="fa-brands fa-itch-io"></i> [Itch.io](https://erytau.itch.io/bunny-forest) (Windows, Linux, Mac, Android APK)
+- <i class="fa-brands fa-google-play"></i> [Google Play](https://play.google.com/store/apps/details?id=com.erytau.bunnyforest)
+- <i class="fa-brands fa-ubuntu"></i> [Ubuntu Snap](https://snapcraft.io/bunny-forest)
 
 ## Privacy Policy
 ---
-- [Privacy Policy <i class="fa-solid fa-shield-halved"></i>](./bunny-forest-privacy)
+- <i class="fa-solid fa-shield-halved"></i> [Privacy Policy](./bunny-forest-privacy)
 
 ## Gallery
 ---
