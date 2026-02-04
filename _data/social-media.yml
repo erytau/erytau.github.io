@@ -100,3 +100,8 @@ bluesky:
   url   : https://bsky.app/profile/
   icon  : fab fa-bluesky
   color : 0085FF
+
+mastodon:
+  url   : https://
+  icon  : fab fa-mastodon
+  color : 615EF8
