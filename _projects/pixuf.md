@@ -3,7 +3,7 @@ name: Pixuf - Tiny Pixel Font
 tools: [Assets, Fonts]
 image: ./assets/pub/pixuf/cover.png
 description: Tiny, minimal but readable 8px pixel font
-weight: 5
+weight: 500
 ---
 
 ![](../assets/pub/pixuf/cover.png)

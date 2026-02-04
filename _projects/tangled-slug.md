@@ -3,7 +3,7 @@ name: Tangled Slug
 tools: [Windows, Linux, Android, Mac, Web]
 image: ./assets/pub/tangled-slug/630x500_2.png
 description: Logic game about stretchy slugs and mushrooms
-weight: 2
+weight: 200
 ---
 
 ![](../assets/pub/tangled-slug/630x500_2.png)
