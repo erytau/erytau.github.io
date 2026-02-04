@@ -3,7 +3,7 @@
   <!-- Local Projects, modified with weight by me -->
   {%- assign projects_sorted = site.projects | sort: 'weight' -%} 
 
-  {% for project in projects_sorted %}
+  {% for project in site.projects %}
 
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}
@@ -20,9 +20,7 @@
       {%- assign external    = false -%}
     {%- endif -%}
 
-    <div class="col-lg-4 col-md-6 mb-4">
-      {% include projects/project-card.html %}
-    </div>
+    {% include projects/project-card.html %}
 
   {% endfor %}
 
