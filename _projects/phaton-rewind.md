@@ -2,7 +2,7 @@
 name: Phantom Rewind
 tools: []
 image: ./assets/pub/phantom-rewind/fishes.png
-description: Puzzle-adventure about a ghost who can rewind time!
+description: Puzzle-adventure about a ghost who can rewind time! [Work in progress]
 weight: 1
 ---
 
