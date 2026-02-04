@@ -63,3 +63,15 @@ hr {
     grid-template-columns: 1fr;
   }
 }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-auto-rows: 10px; /* Small row height for flexible spanning */
+  gap: 1.5rem;
+}
+
+.card-grid .card {
+  /* Cards will auto-size based on content */
+  grid-row-end: span 30; /* Adjust this number based on your card heights */
+}
