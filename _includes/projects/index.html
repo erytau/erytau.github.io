@@ -1,4 +1,4 @@
-<div class="card-grid m-3 mt-5">
+<div class="row m-3 mt-5">
 
   <!-- Local Projects, modified with weight by me -->
   {%- assign projects_sorted = site.projects | sort: 'weight' -%} 
@@ -20,7 +20,9 @@
       {%- assign external    = false -%}
     {%- endif -%}
 
-    {% include projects/project-card.html %}
+    <div class="col-lg-4 col-md-6 mb-4">
+      {% include projects/project-card.html %}
+    </div>
 
   {% endfor %}
 
