@@ -43,3 +43,23 @@ hr {
 .social {
   font-size: 26px;
 }
+
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  grid-auto-flow: dense; /* This creates the chaotic packing effect */
+}
+
+/* Optional: Make some cards span differently for variety */
+.card:nth-child(3n) {
+  grid-row: span 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
