@@ -17,4 +17,3 @@ Still in the works.
 
 {% include video.html src="../assets/pub/phantom-rewind/orb_room2.mp4" %}
 {% include video.html src="../assets/pub/phantom-rewind/spiral-staircase.mp4" %}
-{% include video.html src="../assets/pub/phantom-rewind/light-trails_720.mp4" %}
