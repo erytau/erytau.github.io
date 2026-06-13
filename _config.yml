@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : Erytau
 description         : >-
-                      Hi. I make stuff.
-                      Sometimes.
+                      I make pixel art, low poly 3d, video games and other stuff
 baseurl             : ""                           # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : erytau/erytau.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU@v2.3.0
