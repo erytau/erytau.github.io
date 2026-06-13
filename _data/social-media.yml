@@ -105,3 +105,8 @@ mastodon:
   url   : https://
   icon  : fab fa-mastodon
   color : 615EF8
+
+kofi:
+  url   : https://ko-fi.com/
+  icon  : fab fa-ko-fi
+  color : 615EF8  
